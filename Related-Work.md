@@ -1,5 +1,3 @@
-# Software Engineering
-
 ## Code Quality
 
 - code ownership correlates with code quality \cite{greiler2015codeownership, bird2011codeownership, foucault2014codeownership, rahman2011ownership}
