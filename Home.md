@@ -5,5 +5,6 @@ Welcome to the CommunityCodeReview wiki!
 Accessing the current Monticello commit and its ancestors:
 
 ```Smalltalk
-(Morph>>#step) methodClass packageInfo workingCopy ancestry ancestors first ancestors first id
+(Morph>>#step) methodClass packageInfo workingCopy ancestry ancestors 
+  first ancestors first id
 ```
