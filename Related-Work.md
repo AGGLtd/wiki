@@ -1,3 +1,9 @@
+# Branches
+
+- branches allow a software project to divide work among its teams for concurrent development by isolating change \cite{bird2012branches}
+- integrating changes from multiple branches can be difficult and error-prone, especially if changes on different branches conflict, either syntactically or semantically\cite{bird2012branches}
+- branching patterns \cite{appleton1998streamed}
+
 # Social Coding
 
 - examples: GitHub, BitBucket
