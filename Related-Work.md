@@ -1,3 +1,9 @@
+# Social Coding
+
+- examples: GitHub, BitBucket
+- Project networks are more interconnected than human networks \cite{thung2013github}
+- Social coding enables substantially more collaborations among developer \cite{thung2013github}
+
 # Code Quality
 
 - code ownership correlates with code quality \cite{greiler2015codeownership, bird2011codeownership, foucault2014codeownership, rahman2011ownership}
