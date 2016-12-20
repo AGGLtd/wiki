@@ -33,3 +33,8 @@
 - The usefulness of code review comments—as judged by the author of a code change—is positively correlated with reviewers’ experience \cite{czerwonka2015codereviews}
 - Code review usefulness is negatively correlated with the size of a code review \cite{czerwonka2015codereviews}
  - The decrease however only starts to be noticeable for reviews with 20 or more changed files \cite{czerwonka2015codereviews}
+
+# Related Work
+
+## Pull requests & feature branches
+- Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}. 
