@@ -9,6 +9,10 @@
 - examples: GitHub, BitBucket
 - Project networks are more interconnected than human networks \cite{thung2013github}
 - Social coding enables substantially more collaborations among developer \cite{thung2013github}
+- provides transparency in the form of visibility of others’ actions on public or shared artifacts~\cite{dabbish2012social}
+- notifying members of actions on shared artifacts helps them maintain mental models of others activities~\cite{gross2005user}
+- notifying members of actions on shared artifacts avoid potential coordination conflicts~\cite{sarma2003plantir}
+- isolated development is bad because not knowing which artifacts are changing in parallel regularly leads to problems when changes are promoted from workspaces into a central configuration management repository.~\cite{sarma2003plantir}
 
 ## GitHub PRs
 - Most pull requests are less than 20 lines long and processed (merged or discarded) in less than 1 day~\cite{gousios2014PullBasedSD}
@@ -66,3 +70,4 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 
 ## Pull requests & feature branches
 - Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}. 
+- Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir}
