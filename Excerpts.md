@@ -70,4 +70,4 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 
 ## Pull requests & feature branches
 - Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}. 
-- Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir}
+- Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
