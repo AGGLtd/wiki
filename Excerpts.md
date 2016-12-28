@@ -41,6 +41,8 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 - Contributions from submitters with a high status in the general community are more likely to be accepted~\cite{tsay2014contributionGithub}
 - Contributions from submitters that hold higher status in a specific project are more likely to be accepted~\cite{tsay2014contributionGithub}
 - Contributions to established projects are less likely to be accepted~\cite{tsay2014contributionGithub}
+- developers raised issues around contributions over both the appropriateness of the problem that the submitter attempted to solve and the correctness of the implemented solution~\cite{tsay2014ContributionDiscussion}
+
 
 # Code Quality
 
@@ -71,6 +73,7 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 - Developers believe that factors such as the experience of developers, the choice of a reviewer, size of a patch, its quality and rationale affect the time needed for review \cite{kononenko2016codereviewquality}
 - bug severity, code quality and its rationale, presence and quality of tests, and developer personality impact review decisions.\cite{kononenko2016codereviewquality}
 - in Mozilla: While most of developers write patches as well as review them, a dedicated group of developers is responsible for reviewing code changes. \cite{kononenko2016codereviewquality}
+- Users are more likely to invest time in a solution if they know that the community is active and that they can get help when needed~\cite{bird2015CodeReviewPlatform}
 
 ## Usefullness
 
