@@ -11,6 +11,9 @@
 - Social coding enables substantially more collaborations among developer \cite{thung2013github}
 
 ## GitHub PRs
+- Most pull requests are less than 20 lines long and processed (merged or discarded) in less than 1 day~\cite{gousios2014PullBasedSD}
+- the discussion spans on average to 3 comments, while code reviews affect the time to merge a pull request~\cite{gousios2014PullBasedSD}
+- 14% of repositories are using pull requests on Github.~\cite{gousios2014PullBasedSD}
 - In Ruby, Java and JavaScript, the average number of unsuccessful pull requests per month is exceptionally
 higher than that of successful pull requests~\cite{rahman2014pullrequests}
 - The rate of unsuccessful pull requests increases exponentially (for one project) with more than 4000 developers involved~\cite{rahman2014pullrequests}
