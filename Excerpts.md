@@ -12,7 +12,7 @@
 
 ## GitHub PRs
 
-- Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE, yu2015pullrequests, tsay2014contributionGithub}.
+- Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE, yu2015pullrequests, tsay2014contributionGithub, gousios2014PullBasedSD}.
 - Contributions that follow technical contribution norms are more likely to be accepted.~\cite{tsay2014contributionGithub}
 - Contributions from submitters with a stronger social connection to the project are more likely to be accepted.~\cite{tsay2014contributionGithub}
 - Contributions with a high amount of discussion are less likely to be accepted.~\cite{tsay2014contributionGithub}
