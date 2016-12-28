@@ -13,6 +13,18 @@
 - notifying members of actions on shared artifacts helps them maintain mental models of others activities~\cite{gross2005user}
 - notifying members of actions on shared artifacts avoid potential coordination conflicts~\cite{sarma2003plantir}
 - isolated development is bad because not knowing which artifacts are changing in parallel regularly leads to problems when changes are promoted from workspaces into a central configuration management repository.~\cite{sarma2003plantir}
+- Social computing technologies shift the focus of interaction to individual contributors and their activities with electronic artifacts~\cite{dabbish2012social}
+
+## Social Networking at Work
+- Usage of Facebook and LinkedIn at work increases ~\cite{Skeels2009FacebookLinkedinAtWork}
+- LinkedIn, ideally positioned for young professionals, is widely used to build and maintain external professional networks~\cite{Skeels2009FacebookLinkedinAtWork}
+- motivations in doing this include connecting on a personal level with coworkers, advancing their career with the
+company, and campaigning for their projects~\cite{DiMicco2008Newtworking}
+- Within the walled garden of the enterprise, employees choose to reach out and meet new people rather than only
+connecting to those they know.~\cite{DiMicco2008Newtworking}
+- share details of their life outside of work which has not been found with any frequency in other enterprise social software tools~\cite{DiMicco2008Newtworking}
+- If motivated by career advancement goals or a desire to champion a project idea, they use the social network site
+strategically to connect and spread their message to a large audience~\cite{DiMicco2008Newtworking}
 
 ## GitHub PRs
 - Most pull requests are less than 20 lines long and processed (merged or discarded) in less than 1 day~\cite{gousios2014PullBasedSD}
