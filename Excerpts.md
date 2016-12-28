@@ -49,7 +49,7 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 - code ownership correlates with code quality \cite{greiler2015codeownership, bird2011codeownership, foucault2014codeownership, rahman2011ownership}
 
 # Code Reviews
-
+- Code Review is an important practice at Microsoft and in other companies and open source projects~\cite{balachandran2013PeerCodeReviews, bird2015CodeReviewPlatform, rigby2013PeerCodeReviews}
 - code reviews allow a group of people to communicate over a shared view of an artefact undergoing a change \cite{czerwonka2015codereviews}
 
 ## Benefits
@@ -82,7 +82,7 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
  - The decrease however only starts to be noticeable for reviews with 20 or more changed files \cite{czerwonka2015codereviews}
 
 # Related Work
-
+- CodeFlow (Microsoft) ~\cite{bird2015CodeReviewPlatform}
+- Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
 ## Pull requests & feature branches
 - Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}. 
-- Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
