@@ -10,6 +10,17 @@
 - Project networks are more interconnected than human networks \cite{thung2013github}
 - Social coding enables substantially more collaborations among developer \cite{thung2013github}
 
+## GitHub PRs
+
+- Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE, yu2015pullrequests, tsay2014contributionGithub}.
+- Contributions that follow technical contribution norms are more likely to be accepted.~\cite{tsay2014contributionGithub}
+- Contributions from submitters with a stronger social connection to the project are more likely to be accepted.~\cite{tsay2014contributionGithub}
+- Contributions with a high amount of discussion are less likely to be accepted.~\cite{tsay2014contributionGithub}
+- Acceptance of highly discussed contributions will be moderated by both social and technical factors.~\cite{tsay2014contributionGithub}
+- Contributions from submitters with a high status in the general community are more likely to be accepted~\cite{tsay2014contributionGithub}
+- Contributions from submitters that hold higher status in a specific project are more likely to be accepted~\cite{tsay2014contributionGithub}
+- Contributions to established projects are less likely to be accepted~\cite{tsay2014contributionGithub}
+
 # Code Quality
 
 - code ownership correlates with code quality \cite{greiler2015codeownership, bird2011codeownership, foucault2014codeownership, rahman2011ownership}
