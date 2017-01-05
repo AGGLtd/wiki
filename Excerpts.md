@@ -75,6 +75,13 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 - in Mozilla: While most of developers write patches as well as review them, a dedicated group of developers is responsible for reviewing code changes. \cite{kononenko2016codereviewquality}
 - Users are more likely to invest time in a solution if they know that the community is active and that they can get help when needed~\cite{bird2015CodeReviewPlatform}
 
+### Convergent Practices
+- Contemporary peer review follows a lightweight, flexible process~\cite{rigby2013PeerCodeReviews}.
+- Reviews happen early (before a change is committed), quickly, and frequently.~\cite{rigby2013PeerCodeReviews}.
+- Change sizes are small. Contemporary review is performed regularly and quickly just before the code is committed instead of when a larger work product is complete as in inspection~\cite{rigby2013PeerCodeReviews}.
+- Two reviewers find an optimal number of defects. Contemporary review usually involves two reviewers. However, the number of reviewers is not fixed and can vary to accommodate other factors, such as the complexity of a change~\cite{rigby2013PeerCodeReviews}.
+- Review has changed from a defect finding activity to a group problem solving activity. Contemporary reviewers prefers discussion and fixing code over reporting defects~\cite{rigby2013PeerCodeReviews}.
+
 ## Usefullness
 
 - The usefulness of code review comments—as judged by the author of a code change—is positively correlated with reviewers’ experience \cite{czerwonka2015codereviews}
