@@ -54,6 +54,16 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 
 ## Benefits
 - Code review coverage and review participation share a significant link with software quality.\cite{mcintosh2014impact}
+  - Future-defective files tend to undergo less intense code review than clean files do~\cite{mcintosh2014impact}.
+  - Future-defective files tend to undergo reviews with less team participation than clean files do~\cite{mcintosh2014impact}.
+  - Future-defective files tend to undergo reviews with a faster rate of code examination than clean files do~\cite{mcintosh2014impact}.
+  - For evolvability changes, futuredefective files tend to more frequently address documentation and structure concerns than clean files do~\cite{mcintosh2014impact}.
+  - Risky files tend to undergo less intense code reviews than normal files do~\cite{mcintosh2014impact}.
+  - Risky files tend to be reviewed with less team participation than normal files~\cite{mcintosh2014impact}.
+  - Risky files tend to undergo reviews that receive feedback more slowly and have faster review rate than normal files~\cite{mcintosh2014impact}.
+  - Risky files tend to more frequently have evolvability concerns addressed during code review than normal files do~\cite{mcintosh2014impact}.
+  - Risky files tend to more frequently have functionality concerns addressed during code review than normal files do~\cite{mcintosh2014impact}.
+- Files that have historically been defective and will eventually have defects tend to undergo less rigorous code reviews that more frequently address evolvability concerns than the files that have historically been defective, but will eventually be defect-free~\cite{mcintosh2014impact}.
 - Motivations are: finding defects, code improvements, alternative solutions, knowedge transfer, team awareness\cite{bacchelli2013expectations}
 - Most of the comments are in the categories code improvements, understandability, social communication and defects. \cite{bacchelli2013expectations}
 - Only about 15% of comments provided by reviewers indicate a possible defect, much less a blocking a code submission \cite{czerwonka2015codereviews}
