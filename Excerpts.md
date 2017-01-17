@@ -97,10 +97,11 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 - The usefulness of code review comments—as judged by the author of a code change—is positively correlated with reviewers’ experience \cite{czerwonka2015codereviews}
 - Code review usefulness is negatively correlated with the size of a code review \cite{czerwonka2015codereviews}
  - The decrease however only starts to be noticeable for reviews with 20 or more changed files \cite{czerwonka2015codereviews}
+- Reviews should be small and coherent~\cite{rigby2012contemporary, mockus2002CaseStudies, rigby2014PeerReviewOSS}. 
 
 # Related Work
 - CodeFlow (Microsoft) ~\cite{bird2015CodeReviewPlatform}
 - Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
 
 ## Pull requests & feature branches
-- Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}. 
+- Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}.
