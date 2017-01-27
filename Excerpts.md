@@ -109,10 +109,13 @@ code elsewhere) is important for understanding the change, but such information 
 - To accomplish a change-understanding task, engineers need
 better support for determining the risk of a change and decomposing a composite change~\cite{tao2012UnderstandCodeChanges}.
 
+### Systems
+- Critiques (University of Austin, Eclipse Plugin)~\cite{zhang2015interactivecodereview} systematically summarize similar changes and supports finding potential forgotten changes
+- ClusterChange (MicrosoftResearch)~\cite{barnett2015helpingdevelopers}: technique for decomposing changesets
+
 # Related Work
 - CodeFlow (Microsoft) ~\cite{bird2015CodeReviewPlatform}
 - Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
-- Critiques (University of Austin, Eclipse Plugin)~\cite{zhang2015interactivecodereview} systematically summarize similar changes and supports finding potential forgotten changes
 
 ## Pull requests & feature branches
 - Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}.
