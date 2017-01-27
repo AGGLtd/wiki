@@ -99,6 +99,16 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
  - The decrease however only starts to be noticeable for reviews with 20 or more changed files \cite{czerwonka2015codereviews}
 - Reviews should be small and coherent~\cite{rigby2012contemporary, mockus2002CaseStudies, rigby2014PeerReviewOSS}. 
 
+## Diff-based Code Reviews
+
+- valuable to decompose it into sub-changes that are aligned with individual development issues; however, currently such decomposition lacks tool support~\cite{tao2012UnderstandCodeChanges}.
+- extend the simple diff utility by tracking line movement\cite{canfora2009Ldiff}, distilling fine-grained change entities~\cite{fluri2007change}, and inferring systematic structural differences~\cite{Kim2009CodeChanges}.
+- Understanding code changes is an indispensable practice in software development, especially for developers and testers. It is frequently required in major development phases, in particular during the code-review process~\cite{tao2012UnderstandCodeChanges}.
+- Information regarding a change’s quality (e.g., its completeness and consistency) and risk (e.g., whether it breaks any
+code elsewhere) is important for understanding the change, but such information is difficult to acquire in the current practice~\cite{tao2012UnderstandCodeChanges}.
+- To accomplish a change-understanding task, engineers need
+better support for determining the risk of a change and decomposing a composite change~\cite{tao2012UnderstandCodeChanges}.
+
 # Related Work
 - CodeFlow (Microsoft) ~\cite{bird2015CodeReviewPlatform}
 - Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
