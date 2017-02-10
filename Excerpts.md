@@ -47,6 +47,7 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 # Code Quality
 
 - code ownership correlates with code quality \cite{greiler2015codeownership, bird2011codeownership, foucault2014codeownership, rahman2011ownership}
+- organizational metrics (number of developers working on a component, organizational distance between developers, organizational code ownership, etc.) are better predictors of defect-proneness than traditional metrics such as churn, complexity, coverage, dependencies, and pre-release bug measures\cite{nagappan2008CodeQuality}
 
 # Code Reviews
 - Code Review is an important practice at Microsoft and in other companies and open source projects~\cite{balachandran2013PeerCodeReviews, bird2015CodeReviewPlatform, rigby2013PeerCodeReviews}
