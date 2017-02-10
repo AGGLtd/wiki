@@ -98,7 +98,7 @@ higher than that of successful pull requests~\cite{rahman2014pullrequests}
 - The usefulness of code review comments—as judged by the author of a code change—is positively correlated with reviewers’ experience \cite{czerwonka2015codereviews}
 - Code review usefulness is negatively correlated with the size of a code review \cite{czerwonka2015codereviews}
  - The decrease however only starts to be noticeable for reviews with 20 or more changed files \cite{czerwonka2015codereviews}
-- Reviews should be small and coherent~\cite{rigby2012contemporary, mockus2002CaseStudies, rigby2014PeerReviewOSS}. 
+- Reviews should be small and coherent~\cite{rigby2012contemporary, mockus2002CaseStudies, rigby2014PeerReviewOSS, baysal2016investigating, jiang2013will, weissberger2008SmallPatches}. 
 
 ## Diff-based Code Reviews
 
