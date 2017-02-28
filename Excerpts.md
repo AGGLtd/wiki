@@ -118,7 +118,8 @@ better support for determining the risk of a change and decomposing a composite 
 
 # Related Work
 - CodeFlow (Microsoft) ~\cite{bird2015CodeReviewPlatform}
-- Palantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
+- Plantir - continuously informing developers of the activities of others developers.~\cite{sarma2003plantir, sarma2012plantir}
+- CodeTalk (http://www.hirschfeld.org/writings/media/SteinertTaeumelLinckePapeHirschfeld_2010_CodeTalkConversationsAboutCode_IEEE.pdf) 
 
 ## Pull requests & feature branches
 - Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}.
