@@ -1,0 +1,4 @@
+- Does the merging of developing software + reviewing code improve the social atmosphere in the team? 
+- Does continuous code review improve the code quality? 
+- How do the comments inside the differ from the tool-based comments? 
+- Do developers use many short discussions or few long discussions?
