@@ -123,3 +123,5 @@ better support for determining the risk of a change and decomposing a composite 
 
 ## Pull requests & feature branches
 - Many projects working with feature branches perform code reviews during pull requests before merging the changes into the main branch~\cite{driessen2010successful, calefato2015PLE}.
+
+# [Code Comment Types](https://pure.tudelft.nl/portal/files/14961470/PID4729011.pdf)
